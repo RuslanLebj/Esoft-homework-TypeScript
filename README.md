@@ -1,0 +1,1 @@
+# *Esoft school homework - TypeScript*
